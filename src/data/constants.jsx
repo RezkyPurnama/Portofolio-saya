@@ -1,4 +1,4 @@
-import picture from "../assets/onlineshopp.png";
+import picture from "../assets/onlineshopsaya.png";
 import picture1 from "../assets/inventori.png";
 import picture2 from "../assets/sekolahsaya1.png";
 
@@ -75,8 +75,7 @@ export const projects = [
     title: "Website Inventori Jurusan Teknologi Informasi",
     description:
       "proyek berbasis tim yang bertujuan meningkatkan efisiensi dan akurasi manajemen stok di jurusan tersebut. Website ini menyediakan fitur pemantauan stok dan pengelolaan data peminjaman, menjadikan proses manajemen inventori lebih terstruktur dan efisien.",
-    image:
-      "https://private-user-images.githubusercontent.com/187028228/383065005-11febff7-286b-41b1-a6f1-d1d4ad3c0482.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3OTU3MzgsIm5iZiI6MTczMDc5NTQzOCwicGF0aCI6Ii8xODcwMjgyMjgvMzgzMDY1MDA1LTExZmViZmY3LTI4NmItNDFiMS1hNmYxLWQxZDRhZDNjMDQ4Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNVQwODMwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZGEzOTk1NmI5OGE4MmUzYTE5MGIwMDMxNWY2ZDg4YTNmNmY0MTY5NzBkZmNmMDQ3ZGUzMjI2ZjU1NGIyMzFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.g107piN3fjzaRv1AdtoMIipAlv59Z1zX_kQvss9LC-Q",
+    image: picture1 
   },
   {
     id: 5,
@@ -84,8 +83,7 @@ export const projects = [
 
     description:
       "Website SMAN 14 Padang dibangun dengan Bootstrap untuk menyediakan platform yang responsif dan Informatif bagi komunitas sekolah. Situs ini menyajikan profil lengkap, termasuk struktur organisasi, visi dan misi, dan juga menampilkan galeri kegiatan dan prestasi siswa, serta contact yang dapat dihubungi. Dengan desain yang user-friendly.",
-    image:
-      "https://private-user-images.githubusercontent.com/187028228/383050293-dd4ca68d-4a4e-4804-9ad9-8c83b7f7276d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3OTUxMTcsIm5iZiI6MTczMDc5NDgxNywicGF0aCI6Ii8xODcwMjgyMjgvMzgzMDUwMjkzLWRkNGNhNjhkLTRhNGUtNDgwNC05YWQ5LThjODNiN2Y3Mjc2ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNVQwODIwMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YTNjNWEyNDkwMWQ1YjVhODM0ODhhMmViYmZiN2FiYmZkMTU5NjY4ZjJiYWVhYjNiYjY0MzMwNWVjOWJkMzNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wFaocqtBedPVHjADYbxsNHtzGWYfsDIBQK1sJkxBcdY",
+    image: picture2,
   },
   {
     id: 6,
@@ -93,7 +91,6 @@ export const projects = [
 
     description:
       "Pengembangan aplikasi onlineshop berbasis mobile menggunakan Flutter untuk memberikan pengalaman belanja yang nyaman melalui antarmuka intuitif. Fitur utama termasuk CRUD untuk daftar produk, melihat detail produk.Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-    image:
-      "https://private-user-images.githubusercontent.com/187028228/383065022-64dc6a01-0218-4862-9447-dde2804017c2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3OTU3MzgsIm5iZiI6MTczMDc5NTQzOCwicGF0aCI6Ii8xODcwMjgyMjgvMzgzMDY1MDIyLTY0ZGM2YTAxLTAyMTgtNDg2Mi05NDQ3LWRkZTI4MDQwMTdjMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNVQwODMwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yODU5NmViZGYxMTQ2Nzc5YjA4NTM2NTM2M2Y4NTI2YjA2YzEyNzI5NWFlZTI4YTBmZmRjM2M4MGI5ZTUxZjcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UWMiat8L_SWVKo1rs6N5Hr0nUSi9jYuVHGcbAmwkE-0",
+    image: picture,
   },
 ];
